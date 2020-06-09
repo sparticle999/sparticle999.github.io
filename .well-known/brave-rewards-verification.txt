@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sparticle999.github.io
+Token: ee2603a03f1010494c296e2e3bc8035df5bed8565611f3549b70b71f30b8f98a
